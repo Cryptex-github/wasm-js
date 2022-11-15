@@ -1,3 +1,3 @@
 # Ril-js
 
-# JS binding to  RIL (Rust Imaging Library)
+JS binding to  RIL (Rust Imaging Library)
